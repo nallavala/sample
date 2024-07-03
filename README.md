@@ -5,7 +5,7 @@ ile contains text
 This file should have Second commit
 ile contains text
 
-This file should have first commit
+This file should have most editable commit
 ile contains text
 
 This file should have first commit
